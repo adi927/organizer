@@ -1,0 +1,18 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  background-color: #3d3b3c;
+  padding: 48px 244px;
+  color: white;
+}
+
+.p {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: normal;
+  font-style: normal;
+  margin-left: 22px;
+}
