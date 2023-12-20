@@ -4,6 +4,7 @@ const Header = () => {
   return (
     <div className={styles.wrapper}>
       <svg
+        className={styles.svg}
         width="40"
         height="39"
         viewBox="0 0 40 39"
